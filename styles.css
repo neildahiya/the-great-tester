@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+    margin: 50px 100px;
+}
+li {
+    color: cyan;
+}
+hr{
+    background-color: white;
+}
+h1 {
+    color: aliceblue;
+  }
+h3 {
+  color: aliceblue;
+}
+ol {
+    list-style: none;
+}
